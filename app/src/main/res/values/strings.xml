@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab4_1</string>
+    <string name="button">click me</string>
+    <string name="cl_button">clicked</string>
+</resources>
